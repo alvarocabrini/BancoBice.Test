@@ -1,0 +1,22 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.react-datepicker__input-container input {
+  border: #ccc 1px solid !important;
+  border-radius: 4px !important;
+  height: 38px !important;
+  padding: 0 .857em !important;
+  width: 160px !important;
+}
