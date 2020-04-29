@@ -20,3 +20,11 @@ code {
   padding: 0 .857em !important;
   width: 160px !important;
 }
+
+.alignLeft {
+  text-align: right !important;
+}
+
+.alignCenter {
+  text-align: center !important;
+}

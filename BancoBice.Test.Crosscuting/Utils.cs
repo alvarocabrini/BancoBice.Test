@@ -8,7 +8,7 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BancoBice.Test.Presentation
+namespace BancoBice.Test.Crosscuting
 {
   public static class Utils
   {

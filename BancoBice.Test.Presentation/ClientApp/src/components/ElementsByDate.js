@@ -47,7 +47,11 @@ export class ElementsByDate extends Component {
               <tr key={element.name}>
                 <td>{element.name}</td>
                 <td>{element.description}</td>
-                <td>{element.value || '-'}</td>
+                {
+                  element.value !== null
+                    ? <td className="alignLeft">{element.value}</td>
+                    : <td className="alignCenter">-</td>     
+                }
                 <td>{element.unit}</td>
                 <td><Moment format="DD-MM-YYYY">
                   {element.dateTime}

@@ -31,7 +31,7 @@ export class LastElements extends Component {
             <tr key={elements.name}>
               <td>{elements.name}</td>
               <td>{elements.description}</td>
-              <td>{elements.value}</td>
+              <td className="alignLeft">{elements.value}</td>
               <td>{elements.unit}</td>
               <td><Moment format="DD-MM-YYYY">
                 {elements.dateTime}

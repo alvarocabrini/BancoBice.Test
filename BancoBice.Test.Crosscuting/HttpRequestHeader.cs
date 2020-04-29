@@ -1,4 +1,8 @@
-﻿namespace BancoBice.Test.Presentation
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace BancoBice.Test.Crosscuting
 {
   public class HttpRequestHeader
   {

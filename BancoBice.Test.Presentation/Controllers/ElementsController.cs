@@ -1,4 +1,5 @@
-﻿using BancoBice.Test.Presentation.Models;
+﻿using BancoBice.Test.Crosscuting;
+using BancoBice.Test.Presentation.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
