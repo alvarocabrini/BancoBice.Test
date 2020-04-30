@@ -2,7 +2,7 @@
 Prueba Banco Bice Labs
 
 ### Probar la aplicación
-1. Sobre la carpeta que contiene la publicación de la aplicación ([Descargar aquí](https://github.com/alvarocabrini/BancoBicePublish)) debes abrir una consola de comandos (CMD) y ejecutar el comando **dotnet BancoBice.Test.Presentation.dll** 
+1. Sobre la carpeta que contiene la publicación de la aplicación ([Descárgala aquí](https://github.com/alvarocabrini/BancoBicePublish)) debes abrir una consola de comandos (CMD) y ejecutar el comando **dotnet BancoBice.Test.Presentation.dll** 
 
 ![alt text](https://fotos.subefotos.com/a664c68b82c1879e68c9ef718e95ff6co.png "CMD dotnet")
 
@@ -11,7 +11,7 @@ Prueba Banco Bice Labs
 
 ### Test unitario
 Para correr el test unitario necesitarás:
-  - Visual Studio 2019 ([Descargar aquí](https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&rel=16))
+  - Visual Studio 2019 ([Descárgala aquí](https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&rel=16))
   - .NET Core 3.1 SDK (v3.1.201) [Windows x64](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.201-windows-x64-installer) [Otra arquitectura / Sistema operativo](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 
 1. Abre la aplicación, sobre la pestaña **Prueba/Test** selecciona **Explorador de pruebas/Test Explorer**
@@ -25,9 +25,9 @@ click secundario y selecciona **Ejecutar/Execute**
 
 
 ### Para hacer cambios sobre esta aplicación o levantarla en un servidor web se necesita lo siguiente
-  - Visual Studio 2019 ([Descargar aquí](https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&rel=16))
+  - Visual Studio 2019 ([Descárgala aquí](https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&rel=16))
   - .NET Core 3.1 SDK (v3.1.201) [Windows x64](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.201-windows-x64-installer) [Otra arquitectura / Sistema operativo](https://dotnet.microsoft.com/download/dotnet-core/3.1)
-  - Node.js ([Descargar aquí](https://nodejs.org/es/download/))
+  - Node.js ([Descárgala aquí](https://nodejs.org/es/download/))
   
 Para generar la publicación sigue los siguientes pasos
 1. Abre la aplicación
