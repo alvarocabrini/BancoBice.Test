@@ -1,5 +1,5 @@
 # BancoBice.Test
-Prueba Banco Bice Labs
+Aplicación contruida con .Net Core 3.1 y React
 
 ### Probar la aplicación
 1. Sobre la carpeta que contiene la publicación de la aplicación ([Descárgala aquí](https://github.com/alvarocabrini/BancoBicePublish)) debes abrir una consola de comandos (CMD) y ejecutar el comando **dotnet BancoBice.Test.Presentation.dll** 
