@@ -18,6 +18,7 @@ Para correr el test unitario necesitarás:
 
 2. Se deplegará un panel llamado **Explorador de pruebas/Test Explorer**, verás un test unitario con el nombre **UrisStatusOk**, haz 
 click secundario y selecciona **Ejecutar/Execute**
+
 ![alt text](https://fotos.subefotos.com/4a7de7f6908e362d873f18421fadf807o.png "Explorador de pruebas")
 
 
