@@ -12,7 +12,7 @@ Prueba Banco Bice Labs
 ### Test unitario
 Para correr el test unitario necesitarás:
   - Visual Studio 2019 ([Descárgala aquí](https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&rel=16))
-  - .NET Core 3.1 SDK (v3.1.201) [Windows x64](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.201-windows-x64-installer) [Otra arquitectura / Sistema operativo](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+  - .NET Core 3.1 SDK (v3.1.201) ([Descárgala para Windows x64](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.201-windows-x64-installer)) ([Descárgala para otra arquitectura / Sistema operativo](https://dotnet.microsoft.com/download/dotnet-core/3.1))
 
 1. Abre la aplicación, sobre la pestaña **Prueba/Test** selecciona **Explorador de pruebas/Test Explorer**
 
