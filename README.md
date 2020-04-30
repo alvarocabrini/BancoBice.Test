@@ -16,7 +16,8 @@ Para correr el test unitario necesitarás:
 1. Abre la aplicación, sobre la pestaña **Prueba/Test** selecciona **Explorador de pruebas/Test Explorer**
 ![alt text](https://fotos.subefotos.com/02f2d32769233e1e214c1c4194b8dbado.png "Explorador de pruebas")
 
-2. Se deplegará un panel llamado **Explorador de pruebas/Test Explorer**, verás un test unitario con el nombre **UrisStatusOk**, haz click secundario y selecciona **Ejecutar/Execute**
+2. Se deplegará un panel llamado **Explorador de pruebas/Test Explorer**, verás un test unitario con el nombre **UrisStatusOk**, haz 
+click secundario y selecciona **Ejecutar/Execute**
 ![alt text](https://fotos.subefotos.com/4a7de7f6908e362d873f18421fadf807o.png "Explorador de pruebas")
 
 
