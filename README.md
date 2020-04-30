@@ -2,7 +2,7 @@
 Prueba Banco Bice Labs
 
 ### Levantando la aplicación
-1. Sobre la carpeta que contiene la publicación de la aplicación ([la puedes descargar aquí](https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&rel=16)) debes abrir una consola de comandos (CMD) y ejecutar el comando **dotnet BancoBice.Test.Presentation.dll** 
+1. Sobre la carpeta que contiene la publicación de la aplicación ([Descargar aquí](https://github.com/alvarocabrini/BancoBicePublish)) debes abrir una consola de comandos (CMD) y ejecutar el comando **dotnet BancoBice.Test.Presentation.dll** 
 ![alt text](https://fotos.subefotos.com/a664c68b82c1879e68c9ef718e95ff6co.png "CMD dotnet")
 
 2. Abrir el navegador, y copiar la siguiente url [https://localhost:5001/](https://localhost:5001/) o [http://localhost:5000/](http://localhost:5000/)
