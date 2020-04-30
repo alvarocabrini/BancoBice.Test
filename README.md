@@ -30,7 +30,7 @@ Para generar la publicación se deben seguir los siguientes pasos
 2. sobre el proyecto **BancoBice.Test.Presentation** dar click secundario y seleccionar **Publicar/Publish**
 ![alt text](https://docs.microsoft.com/en-us/visualstudio/deployment/media/quickstart-publish.png?view=vs-2019 "Crear perfil publicación")
 
-3. en el recuadro seleccionar **Carpeta/Foler**, en el botón **Buscar/Browse** seleccionar la ruta donde se alojará la publicación, luego en la esquina inferior derecha presionar el botón **Publicar/Publish**
+3. en el recuadro seleccionar **Carpeta/Folder**, en el botón **Buscar/Browse** seleccionar la ruta donde se alojará la publicación, luego en la esquina inferior derecha presionar el botón **Publicar/Publish**
 ![alt text](https://docs.microsoft.com/en-us/visualstudio/deployment/media/quickstart-publish-folder.png?view=vs-2019 "Configurar publicación")
 
 4. en el recuadro que aparecerá debe estar presionar el botón **Publicar/Publish** esto puede tomar unos minutos 
